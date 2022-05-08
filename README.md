@@ -1,0 +1,1 @@
+# OS6-memory-allocation-by-variable-size-partitions
